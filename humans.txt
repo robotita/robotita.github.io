@@ -3,11 +3,14 @@
 
 # TEAM
 
-    Designer/Developer: Jordan Bowman
-    @jrdnbwmn
-    eatapapaya.com
+    Designer/Developer: Majo Abad
+    @bombachitapunk
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Javascript
     Normalize.css, Sass, Pear
+
+
+# THANKS
+	Designer/Developer: Jordan Bowman
