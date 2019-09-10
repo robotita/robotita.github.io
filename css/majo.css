@@ -464,15 +464,34 @@ html {
     box-sizing: inherit
 }
 
+
+
 body {
-/*    background-color: #f2f2f2!important;
-    color: #262b3a;*/
     background: #FBB9A5;
     color: #3901B1;
     line-height: 1.6rem;
     margin: 0;
     padding: 0;
-    -moz-osx-font-smoothing: grayscale
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+}
+
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    color: #fff;
+    /*background: linear-gradient(-45deg, #95E3CD,#FBE3A5,#83C892,#FBB9A5);*/
+    background: linear-gradient(-45deg,#FBE3A5,#FBB9A5);
+    background-size: 2100% 10%;
+    animation: gradientBG 15s ease infinite;
+}
+
+@keyframes gradientBG {
+    0% { background-position: 0% 0%; }
+    80% { background-position: 40% 0%; }
+    100% { background-position: 0% 0%; }
 }
 
 ::-moz-selection {
