@@ -887,6 +887,12 @@ video {
     max-width: 20%
 }
 
+.span-one-sixth{
+    -ms-flex-preferred-size: 16.6%;
+    flex-basis: 16.6%;
+    max-width: 16.6%
+}
+
 .span-two-fifths {
     -ms-flex-preferred-size: 40%;
     flex-basis: 40%;
@@ -1339,7 +1345,7 @@ hr {
 }
 
 .bg--blue {
-    background-color: #3901B1;
+    background-color: #19048F;
 }
 
 .bg--pink {
