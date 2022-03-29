@@ -1,6 +1,10 @@
 # Majo
-Hello, this is my portfolio
+Hola, este es mi portfolio,
+siempre en construcción,
+porque en casa de herrero ...
 
-## Bye!
+## Chusmear
+https://robotita.github.io/
 
-# robotita.github.io"# majo" 
+## Adiós!
+⊂(◉‿◉)つ
